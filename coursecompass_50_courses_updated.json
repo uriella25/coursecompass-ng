@@ -1,0 +1,1279 @@
+{
+  "subjects": [
+    "English",
+    "Mathematics",
+    "Biology",
+    "Chemistry",
+    "Physics",
+    "Economics",
+    "Government",
+    "Geography",
+    "Literature",
+    "CRS",
+    "IRS",
+    "Commerce",
+    "Accounting",
+    "History",
+    "French",
+    "Agricultural Science",
+    "Fine Arts",
+    "Computer Studies",
+    "Technical Drawing",
+    "Arabic",
+    "Music"
+  ],
+  "courses": [
+    {
+      "id": "medicine-surgery",
+      "name": "Medicine and Surgery",
+      "category": "Health Sciences",
+      "description": "The ultimate challenge for science students who want to save lives. Expect 6+ years of intense study, long hospital shifts, and the prestige of graduating as 'Doctor.'",
+      "requirements": {
+        "required": [
+          "Biology",
+          "Chemistry",
+          "Physics"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "Ahmadu Bello University",
+        "University of Nigeria, Nsukka",
+        "Obafemi Awolowo University",
+        "University of Benin",
+        "University of Port Harcourt",
+        "University of Calabar"
+      ]
+    },
+    {
+      "id": "nursing-science",
+      "name": "Nursing Science",
+      "category": "Health Sciences",
+      "description": "Healthcare's frontline heroes. You'll master patient care, medical procedures, and the compassion needed to make a real difference in people's lives every single day.",
+      "requirements": {
+        "required": [
+          "Biology",
+          "Chemistry",
+          "Physics"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "University of Benin",
+        "Lagos State University",
+        "Babcock University",
+        "Covenant University"
+      ]
+    },
+    {
+      "id": "pharmacy",
+      "name": "Pharmacy",
+      "category": "Health Sciences",
+      "description": "The chemistry of healing. Master drug formulation, patient counseling, and become the expert between doctors and patients when it comes to medications.",
+      "requirements": {
+        "required": [
+          "Biology",
+          "Chemistry",
+          "Physics"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "Obafemi Awolowo University",
+        "University of Benin",
+        "University of Port Harcourt"
+      ]
+    },
+    {
+      "id": "computer-engineering",
+      "name": "Computer Engineering",
+      "category": "Engineering",
+      "description": "Build the hardware that powers our digital world. From microchips to smartphones, you'll design the physical systems that make software possible.",
+      "requirements": {
+        "required": [
+          "Mathematics",
+          "Physics",
+          "Chemistry"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "Ahmadu Bello University",
+        "Federal University of Technology Akure",
+        "Covenant University"
+      ]
+    },
+    {
+      "id": "civil-engineering",
+      "name": "Civil Engineering",
+      "category": "Engineering",
+      "description": "Shape the physical world around you. Design bridges, roads, buildings, and infrastructure that entire communities depend on for generations.",
+      "requirements": {
+        "required": [
+          "Mathematics",
+          "Physics",
+          "Chemistry"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "Ahmadu Bello University",
+        "Federal University of Technology Akure",
+        "Covenant University"
+      ]
+    },
+    {
+      "id": "mechanical-engineering",
+      "name": "Mechanical Engineering",
+      "category": "Engineering",
+      "description": "Master the machines that move the world. From car engines to manufacturing systems, you'll design, build, and optimize mechanical solutions to real problems.",
+      "requirements": {
+        "required": [
+          "Mathematics",
+          "Physics",
+          "Chemistry"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "Ahmadu Bello University",
+        "University of Benin",
+        "Federal University of Technology Akure"
+      ]
+    },
+    {
+      "id": "computer-science",
+      "name": "Computer Science",
+      "category": "Science",
+      "description": "Build the apps, AI, and systems that run the world. If you love problem-solving and creating things from scratch, this is your playground.",
+      "requirements": {
+        "required": [
+          "Mathematics",
+          "Physics"
+        ],
+        "choose_one": [
+          "Biology",
+          "Chemistry",
+          "Agricultural Science",
+          "Economics",
+          "Geography",
+          "Computer Studies"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "University of Benin",
+        "University of Port Harcourt",
+        "Lagos State University",
+        "Covenant University",
+        "Babcock University"
+      ]
+    },
+    {
+      "id": "biochemistry",
+      "name": "Biochemistry",
+      "category": "Science",
+      "description": "Decode life at the molecular level. Study DNA, proteins, and the chemical reactions that make living things tick\u2014perfect for future researchers and medical scientists.",
+      "requirements": {
+        "required": [
+          "Biology",
+          "Chemistry",
+          "Physics"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "Obafemi Awolowo University",
+        "University of Benin",
+        "Covenant University"
+      ]
+    },
+    {
+      "id": "microbiology",
+      "name": "Microbiology",
+      "category": "Science",
+      "description": "Discover the invisible world that runs everything. From disease-fighting bacteria to brewing beer, you'll spend your days in labs uncovering life at microscopic scale.",
+      "requirements": {
+        "required": [
+          "Biology",
+          "Chemistry"
+        ],
+        "choose_one": [
+          "Physics",
+          "Mathematics"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "University of Benin",
+        "University of Port Harcourt",
+        "Covenant University"
+      ]
+    },
+    {
+      "id": "economics",
+      "name": "Economics",
+      "category": "Social Sciences",
+      "description": "Understand money, markets, and why countries rise or fall. Perfect for future policy makers, analysts, and anyone who wants to decode how the world really works.",
+      "requirements": {
+        "required": [
+          "Mathematics",
+          "Economics"
+        ],
+        "choose_one": [
+          "Government",
+          "History",
+          "Geography",
+          "Literature",
+          "French",
+          "CRS",
+          "IRS"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "Ahmadu Bello University",
+        "University of Benin",
+        "Lagos State University",
+        "Covenant University"
+      ]
+    },
+    {
+      "id": "psychology",
+      "name": "Psychology",
+      "category": "Social Sciences",
+      "description": "Study the human mind and why people do what they do. From clinical therapy to organizational behavior, you'll learn to understand and help people navigate life.",
+      "requirements": {
+        "choose_three_from_arts_social": [
+          "Government",
+          "Geography",
+          "Economics",
+          "Literature",
+          "History",
+          "CRS",
+          "IRS"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "University of Port Harcourt",
+        "Lagos State University",
+        "Covenant University"
+      ]
+    },
+    {
+      "id": "sociology",
+      "name": "Sociology",
+      "category": "Social Sciences",
+      "description": "Examine how societies work, why inequalities exist, and how communities can change. Study everything from social movements to cultural trends.",
+      "requirements": {
+        "choose_three_from_arts_social": [
+          "Government",
+          "History",
+          "Economics",
+          "Geography",
+          "Literature",
+          "CRS",
+          "IRS"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "University of Benin",
+        "Lagos State University",
+        "Covenant University"
+      ]
+    },
+    {
+      "id": "accounting",
+      "name": "Accounting",
+      "category": "Management Sciences",
+      "description": "Master the language of business. Track money, audit companies, and become the person everyone needs when tax season arrives. High earning potential guaranteed.",
+      "requirements": {
+        "required": [
+          "Mathematics",
+          "Economics"
+        ],
+        "choose_one_social": [
+          "Government",
+          "Geography",
+          "Commerce",
+          "Literature"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "University of Benin",
+        "Lagos State University",
+        "Covenant University",
+        "Babcock University"
+      ]
+    },
+    {
+      "id": "business-administration",
+      "name": "Business Administration",
+      "category": "Management Sciences",
+      "description": "Learn to run companies, lead teams, and make strategic decisions. From startups to corporations, you'll master management, marketing, and entrepreneurship.",
+      "requirements": {
+        "required": [
+          "Mathematics",
+          "Economics"
+        ],
+        "choose_one_social": [
+          "Government",
+          "Geography",
+          "Commerce",
+          "Literature"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "University of Benin",
+        "Lagos State University",
+        "Covenant University",
+        "Pan-Atlantic University"
+      ]
+    },
+    {
+      "id": "law",
+      "name": "Law",
+      "category": "Arts & Humanities",
+      "description": "Argue, advocate, and defend justice. Five years of intense study leads to the Nigerian Bar, courtrooms, and the power to change lives through the legal system.",
+      "requirements": {
+        "required": [
+          "Literature",
+          "Economics"
+        ],
+        "choose_one_arts": [
+          "Government",
+          "History",
+          "CRS",
+          "IRS",
+          "Geography"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "Ahmadu Bello University",
+        "University of Benin",
+        "Lagos State University"
+      ]
+    },
+    {
+      "id": "mass-communication",
+      "name": "Mass Communication",
+      "category": "Arts & Humanities",
+      "description": "Tell stories, shape opinions, and break news. From journalism to PR, advertising to broadcasting, you'll learn to inform, persuade, and entertain audiences across every medium.",
+      "requirements": {
+        "choose_three_arts": [
+          "Literature",
+          "Government",
+          "Economics",
+          "Geography",
+          "CRS",
+          "IRS",
+          "History"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "University of Benin",
+        "Lagos State University",
+        "Covenant University",
+        "Babcock University"
+      ]
+    },
+    {
+      "id": "english-literary-studies",
+      "name": "English & Literary Studies",
+      "category": "Arts & Humanities",
+      "description": "Dive deep into literature, language, and the power of words. Analyze classic texts, write critically, and master communication skills that work everywhere.",
+      "requirements": {
+        "required": [
+          "Literature"
+        ],
+        "choose_two_arts": [
+          "Government",
+          "History",
+          "CRS",
+          "IRS",
+          "French",
+          "Economics"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "Obafemi Awolowo University",
+        "University of Benin",
+        "Lagos State University"
+      ]
+    },
+    {
+      "id": "architecture",
+      "name": "Architecture",
+      "category": "Environmental Design",
+      "description": "Design the buildings that define skylines and communities. Blend art, engineering, and human needs to create spaces where life happens. Studio culture is intense but rewarding.",
+      "requirements": {
+        "required": [
+          "Physics",
+          "Mathematics"
+        ],
+        "choose_one": [
+          "Chemistry",
+          "Geography",
+          "Fine Arts",
+          "Biology",
+          "Economics"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "Ahmadu Bello University",
+        "Obafemi Awolowo University",
+        "Federal University of Technology Akure",
+        "Covenant University"
+      ]
+    },
+    {
+      "id": "agricultural-science",
+      "name": "Agricultural Science",
+      "category": "Agriculture",
+      "description": "Feed the nation and build sustainable food systems. From crop production to agribusiness, you'll learn to solve real problems in farming, technology, and rural development.",
+      "requirements": {
+        "required": [
+          "Chemistry"
+        ],
+        "choose_one": [
+          "Biology",
+          "Agricultural Science"
+        ],
+        "choose_one_2": [
+          "Mathematics",
+          "Physics"
+        ]
+      },
+      "universities": [
+        "University of Ibadan",
+        "Ahmadu Bello University",
+        "Federal University of Agriculture Abeokuta",
+        "Michael Okpara University of Agriculture"
+      ]
+    },
+    {
+      "id": "education-biology",
+      "name": "Education & Biology",
+      "category": "Education",
+      "description": "Become the teacher who makes science come alive. Combine your love for biology with the skills to inspire the next generation of scientists and thinkers.",
+      "requirements": {
+        "required": [
+          "Biology",
+          "Chemistry"
+        ],
+        "choose_one": [
+          "Physics",
+          "Mathematics"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "University of Benin",
+        "Lagos State University"
+      ]
+    },
+    {
+      "id": "dentistry",
+      "name": "Dentistry",
+      "category": "Health Sciences",
+      "description": "Specialize in oral health and surgery. From routine checkups to complex procedures, you'll help people smile confidently while building a lucrative medical career.",
+      "requirements": {
+        "required": [
+          "Biology",
+          "Chemistry"
+        ],
+        "choose_one_science": [
+          "Physics",
+          "Mathematics"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "University of Benin",
+        "Obafemi Awolowo University"
+      ]
+    },
+    {
+      "id": "physiotherapy",
+      "name": "Physiotherapy",
+      "category": "Health Sciences",
+      "description": "Help people move better and live pain-free. Combine anatomy, exercise science, and rehabilitation to restore mobility after injury or illness.",
+      "requirements": {
+        "required": [
+          "Biology",
+          "Physics",
+          "Chemistry"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "Obafemi Awolowo University",
+        "Babcock University"
+      ]
+    },
+    {
+      "id": "medical-laboratory-science",
+      "name": "Medical Laboratory Science",
+      "category": "Health Sciences",
+      "description": "The detectives of medicine. Run tests, analyze samples, and provide the crucial data doctors need to diagnose and treat diseases accurately.",
+      "requirements": {
+        "required": [
+          "Biology",
+          "Physics",
+          "Chemistry"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "University of Benin",
+        "Lagos State University"
+      ]
+    },
+    {
+      "id": "veterinary-medicine",
+      "name": "Veterinary Medicine",
+      "category": "Health Sciences",
+      "description": "Heal the animals that feed and companion us. From livestock health to pet surgery, you'll protect both animal welfare and public health.",
+      "requirements": {
+        "required": [
+          "Biology",
+          "Physics",
+          "Chemistry"
+        ]
+      },
+      "universities": [
+        "University of Ibadan",
+        "Ahmadu Bello University",
+        "University of Nigeria Nsukka"
+      ]
+    },
+    {
+      "id": "radiography",
+      "name": "Radiography",
+      "category": "Health Sciences",
+      "description": "Master medical imaging technology. Operate X-rays, CT scans, and MRIs to help diagnose everything from broken bones to cancer.",
+      "requirements": {
+        "required": [
+          "Biology",
+          "Physics",
+          "Chemistry"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "University of Benin",
+        "Babcock University"
+      ]
+    },
+    {
+      "id": "anatomy",
+      "name": "Anatomy",
+      "category": "Health Sciences",
+      "description": "Study the human body's structure in incredible detail. Essential for medicine, research, and understanding how we're built to function.",
+      "requirements": {
+        "required": [
+          "Biology",
+          "Chemistry"
+        ],
+        "choose_one": [
+          "Physics",
+          "Mathematics"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "University of Benin",
+        "University of Port Harcourt"
+      ]
+    },
+    {
+      "id": "electrical-engineering",
+      "name": "Electrical Engineering",
+      "category": "Engineering",
+      "description": "Power the modern world. Design electrical systems, from power grids to consumer electronics, and keep the lights on for everyone.",
+      "requirements": {
+        "required": [
+          "Mathematics",
+          "Physics",
+          "Chemistry"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "Ahmadu Bello University",
+        "University of Benin",
+        "Federal University of Technology Akure",
+        "Covenant University"
+      ]
+    },
+    {
+      "id": "petroleum-engineering",
+      "name": "Petroleum Engineering",
+      "category": "Engineering",
+      "description": "Extract the resources that fuel nations. High-paying field combining geology, chemistry, and engineering to optimize oil and gas production.",
+      "requirements": {
+        "required": [
+          "Mathematics",
+          "Physics",
+          "Chemistry"
+        ]
+      },
+      "universities": [
+        "University of Port Harcourt",
+        "Federal University of Technology Owerri",
+        "University of Lagos",
+        "Covenant University"
+      ]
+    },
+    {
+      "id": "quantity-surveying",
+      "name": "Quantity Surveying",
+      "category": "Environmental Design",
+      "description": "Manage construction costs and contracts. The financial brains behind building projects, ensuring budgets are met and quality maintained.",
+      "requirements": {
+        "required": [
+          "Physics",
+          "Mathematics"
+        ],
+        "choose_one": [
+          "Chemistry",
+          "Geography",
+          "Fine Arts",
+          "Biology",
+          "Economics"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "Ahmadu Bello University",
+        "Federal University of Technology Akure",
+        "Covenant University"
+      ]
+    },
+    {
+      "id": "estate-management",
+      "name": "Estate Management",
+      "category": "Environmental Design",
+      "description": "Navigate real estate, property development, and facility management. Perfect for those interested in the business side of buildings and land.",
+      "requirements": {
+        "required": [
+          "Mathematics",
+          "Economics"
+        ],
+        "choose_one_social": [
+          "Geography",
+          "Government",
+          "Commerce"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "Obafemi Awolowo University",
+        "Federal University of Technology Akure"
+      ]
+    },
+    {
+      "id": "urban-regional-planning",
+      "name": "Urban & Regional Planning",
+      "category": "Environmental Design",
+      "description": "Design better cities and communities. Shape how people live, work, and move through urban spaces for sustainable, livable futures.",
+      "requirements": {
+        "required": [
+          "Mathematics",
+          "Geography"
+        ],
+        "choose_one": [
+          "Economics",
+          "Physics",
+          "Chemistry"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "Ahmadu Bello University",
+        "Obafemi Awolowo University"
+      ]
+    },
+    {
+      "id": "political-science",
+      "name": "Political Science",
+      "category": "Social Sciences",
+      "description": "Analyze power, governance, and how societies make collective decisions. Essential training for future leaders, policymakers, and political analysts.",
+      "requirements": {
+        "choose_one": [
+          "Government",
+          "History"
+        ],
+        "choose_two_arts_social": [
+          "Economics",
+          "Geography",
+          "Literature",
+          "CRS",
+          "IRS"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "Ahmadu Bello University",
+        "University of Benin",
+        "Lagos State University"
+      ]
+    },
+    {
+      "id": "banking-finance",
+      "name": "Banking & Finance",
+      "category": "Management Sciences",
+      "description": "Master money management in the financial sector. From investment banking to corporate finance, you'll handle millions and make markets move.",
+      "requirements": {
+        "required": [
+          "Mathematics"
+        ],
+        "choose_one_social": [
+          "Economics",
+          "Government",
+          "Commerce"
+        ],
+        "choose_one_any": [
+          "Geography",
+          "Accounting"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "Covenant University",
+        "Babcock University",
+        "Pan-Atlantic University"
+      ]
+    },
+    {
+      "id": "public-administration",
+      "name": "Public Administration",
+      "category": "Social Sciences",
+      "description": "Learn to run government agencies and public services efficiently. Bridge the gap between policy and implementation in the civil service.",
+      "requirements": {
+        "required": [
+          "Government",
+          "Economics"
+        ],
+        "choose_one_social": [
+          "Geography",
+          "History",
+          "Literature"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "Ahmadu Bello University",
+        "Lagos State University"
+      ]
+    },
+    {
+      "id": "international-relations",
+      "name": "International Relations",
+      "category": "Social Sciences",
+      "description": "Study diplomacy, global politics, and how nations interact. Perfect for aspiring diplomats, NGO workers, and global affairs professionals.",
+      "requirements": {
+        "required": [
+          "Economics",
+          "Literature"
+        ],
+        "choose_one": [
+          "Geography",
+          "Government",
+          "History"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "Ahmadu Bello University",
+        "Covenant University",
+        "Obafemi Awolowo University"
+      ]
+    },
+    {
+      "id": "marketing",
+      "name": "Marketing",
+      "category": "Management Sciences",
+      "description": "Learn to create desire and move products. Master consumer psychology, branding, and digital strategies that turn browsers into buyers.",
+      "requirements": {
+        "required": [
+          "Mathematics",
+          "Economics"
+        ],
+        "choose_one_social": [
+          "Government",
+          "Commerce",
+          "Geography"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "Lagos State University",
+        "Covenant University",
+        "Babcock University"
+      ]
+    },
+    {
+      "id": "insurance",
+      "name": "Insurance",
+      "category": "Management Sciences",
+      "description": "Understand and manage risk in the insurance industry. From underwriting to claims, you'll help people and businesses protect what matters most.",
+      "requirements": {
+        "required": [
+          "Mathematics",
+          "Economics"
+        ],
+        "choose_one_social": [
+          "Government",
+          "Commerce",
+          "Geography"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "Lagos State University"
+      ]
+    },
+    {
+      "id": "philosophy",
+      "name": "Philosophy",
+      "category": "Arts & Humanities",
+      "description": "Question everything and think deeply about existence, ethics, and knowledge. Train your mind to analyze arguments and solve complex problems.",
+      "requirements": {
+        "required": [
+          "Government"
+        ],
+        "choose_two_arts": [
+          "Literature",
+          "History",
+          "CRS",
+          "IRS",
+          "Economics"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "Obafemi Awolowo University",
+        "University of Benin"
+      ]
+    },
+    {
+      "id": "geography-degree",
+      "name": "Geography",
+      "category": "Social Sciences",
+      "description": "Study Earth's landscapes, environments, and human-environment relationships. Combine fieldwork with GIS technology to solve spatial problems.",
+      "requirements": {
+        "required": [
+          "Geography"
+        ],
+        "choose_two": [
+          "Mathematics",
+          "Biology",
+          "Chemistry",
+          "Physics",
+          "Agricultural Science",
+          "Economics"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "Ahmadu Bello University",
+        "University of Benin"
+      ]
+    },
+    {
+      "id": "library-science",
+      "name": "Library Science",
+      "category": "Arts & Humanities",
+      "description": "Organize knowledge and help people access information. Modern librarians are information architects managing digital resources and research databases.",
+      "requirements": {
+        "choose_three_arts_social": [
+          "Literature",
+          "Government",
+          "Economics",
+          "History",
+          "Geography",
+          "CRS"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "Ahmadu Bello University"
+      ]
+    },
+    {
+      "id": "social-work",
+      "name": "Social Work",
+      "category": "Social Sciences",
+      "description": "Help vulnerable populations and advocate for social justice. Work with families, communities, and organizations to create positive change.",
+      "requirements": {
+        "required": [
+          "Mathematics"
+        ],
+        "choose_one": [
+          "Economics",
+          "Geography"
+        ],
+        "choose_one_social": [
+          "Government",
+          "History",
+          "CRS"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "Lagos State University"
+      ]
+    },
+    {
+      "id": "theatre-arts",
+      "name": "Theatre Arts",
+      "category": "Arts & Humanities",
+      "description": "Master stagecraft, performance, and dramatic storytelling. From Nollywood to stage productions, bring characters and stories to life.",
+      "requirements": {
+        "required": [
+          "Literature"
+        ],
+        "choose_two_arts": [
+          "Government",
+          "Music",
+          "History",
+          "CRS",
+          "Economics"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "University of Benin",
+        "Obafemi Awolowo University"
+      ]
+    },
+    {
+      "id": "linguistics",
+      "name": "Linguistics",
+      "category": "Arts & Humanities",
+      "description": "Study how language works\u2014structure, meaning, and evolution. Essential for translation, language tech, speech therapy, and communication research.",
+      "requirements": {
+        "choose_two_arts": [
+          "Literature",
+          "Government",
+          "History",
+          "French"
+        ],
+        "choose_one_any": [
+          "Economics",
+          "CRS"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "University of Benin"
+      ]
+    },
+    {
+      "id": "french",
+      "name": "French",
+      "category": "Arts & Humanities",
+      "description": "Master France's global language. Open doors in diplomacy, international business, translation, and teaching across French-speaking Africa and beyond.",
+      "requirements": {
+        "required": [
+          "French"
+        ],
+        "choose_two_arts_social": [
+          "Literature",
+          "Government",
+          "History",
+          "Economics",
+          "CRS"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "Obafemi Awolowo University"
+      ]
+    },
+    {
+      "id": "music",
+      "name": "Music",
+      "category": "Arts & Humanities",
+      "description": "Study music theory, performance, composition, and musicology. From classical to Afrobeats, develop your artistry and technical mastery.",
+      "requirements": {
+        "required": [
+          "Music"
+        ],
+        "choose_one_arts": [
+          "Literature",
+          "Government",
+          "CRS"
+        ],
+        "choose_one_any": [
+          "Economics",
+          "French"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "Obafemi Awolowo University"
+      ]
+    },
+    {
+      "id": "religious-studies",
+      "name": "Religious Studies",
+      "category": "Arts & Humanities",
+      "description": "Explore faith traditions, ethics, and spirituality across cultures. Understand religion's role in society, history, and human behavior.",
+      "requirements": {
+        "choose_one": [
+          "CRS",
+          "IRS"
+        ],
+        "choose_two_arts": [
+          "Literature",
+          "Government",
+          "History",
+          "Economics"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "University of Nigeria Nsukka",
+        "Obafemi Awolowo University"
+      ]
+    },
+    {
+      "id": "biological-sciences",
+      "name": "Biological Sciences",
+      "category": "Science",
+      "description": "Broad study of living organisms and life processes. Foundation for careers in research, conservation, biotechnology, and environmental science.",
+      "requirements": {
+        "required": [
+          "Biology",
+          "Chemistry"
+        ],
+        "choose_one": [
+          "Physics",
+          "Mathematics"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "Ahmadu Bello University",
+        "University of Benin",
+        "Covenant University"
+      ]
+    },
+    {
+      "id": "industrial-chemistry",
+      "name": "Industrial Chemistry",
+      "category": "Science",
+      "description": "Apply chemistry to industrial processes and manufacturing. Work in pharmaceuticals, petrochemicals, food production, and materials development.",
+      "requirements": {
+        "required": [
+          "Chemistry",
+          "Mathematics"
+        ],
+        "choose_one": [
+          "Physics",
+          "Biology",
+          "Agricultural Science"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "Ahmadu Bello University",
+        "Federal University of Technology Akure"
+      ]
+    },
+    {
+      "id": "geology",
+      "name": "Geology",
+      "category": "Science",
+      "description": "Study Earth's structure, rocks, and natural resources. Essential for oil/gas exploration, mining, environmental assessment, and understanding natural disasters.",
+      "requirements": {
+        "choose_three": [
+          "Chemistry",
+          "Physics",
+          "Mathematics",
+          "Biology",
+          "Geography"
+        ]
+      },
+      "universities": [
+        "University of Lagos",
+        "University of Ibadan",
+        "Ahmadu Bello University",
+        "University of Port Harcourt"
+      ]
+    },
+    {
+      "id": "forestry",
+      "name": "Forestry",
+      "category": "Agriculture",
+      "description": "Manage forest resources sustainably. Combat deforestation, protect biodiversity, and balance environmental conservation with economic use.",
+      "requirements": {
+        "required": [
+          "Chemistry"
+        ],
+        "choose_one": [
+          "Biology",
+          "Agricultural Science"
+        ],
+        "choose_one_2": [
+          "Physics",
+          "Mathematics"
+        ]
+      },
+      "universities": [
+        "University of Ibadan",
+        "Federal University of Agriculture Abeokuta",
+        "University of Benin"
+      ]
+    }
+  ],
+  "universities": [
+    {
+      "id": "unilag",
+      "name": "University of Lagos",
+      "state": "Lagos",
+      "type": "Federal"
+    },
+    {
+      "id": "ui",
+      "name": "University of Ibadan",
+      "state": "Oyo",
+      "type": "Federal"
+    },
+    {
+      "id": "abu",
+      "name": "Ahmadu Bello University",
+      "state": "Kaduna",
+      "type": "Federal"
+    },
+    {
+      "id": "unn",
+      "name": "University of Nigeria Nsukka",
+      "state": "Enugu",
+      "type": "Federal"
+    },
+    {
+      "id": "oau",
+      "name": "Obafemi Awolowo University",
+      "state": "Osun",
+      "type": "Federal"
+    },
+    {
+      "id": "uniben",
+      "name": "University of Benin",
+      "state": "Edo",
+      "type": "Federal"
+    },
+    {
+      "id": "uniport",
+      "name": "University of Port Harcourt",
+      "state": "Rivers",
+      "type": "Federal"
+    },
+    {
+      "id": "unical",
+      "name": "University of Calabar",
+      "state": "Cross River",
+      "type": "Federal"
+    },
+    {
+      "id": "futa",
+      "name": "Federal University of Technology Akure",
+      "state": "Ondo",
+      "type": "Federal"
+    },
+    {
+      "id": "futminna",
+      "name": "Federal University of Technology Minna",
+      "state": "Niger",
+      "type": "Federal"
+    },
+    {
+      "id": "futo",
+      "name": "Federal University of Technology Owerri",
+      "state": "Imo",
+      "type": "Federal"
+    },
+    {
+      "id": "funaab",
+      "name": "Federal University of Agriculture Abeokuta",
+      "state": "Ogun",
+      "type": "Federal"
+    },
+    {
+      "id": "mouau",
+      "name": "Michael Okpara University of Agriculture",
+      "state": "Abia",
+      "type": "Federal"
+    },
+    {
+      "id": "lasu",
+      "name": "Lagos State University",
+      "state": "Lagos",
+      "type": "State"
+    },
+    {
+      "id": "covenant",
+      "name": "Covenant University",
+      "state": "Ogun",
+      "type": "Private"
+    },
+    {
+      "id": "babcock",
+      "name": "Babcock University",
+      "state": "Ogun",
+      "type": "Private"
+    },
+    {
+      "id": "pau",
+      "name": "Pan-Atlantic University",
+      "state": "Lagos",
+      "type": "Private"
+    }
+  ]
+}
